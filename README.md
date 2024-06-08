@@ -1,5 +1,7 @@
 # Frontend Mentor - Social links profile
 
+Projeto desenvolvido do desafio frontend mentor que se trata de um perfil com links sociais.
+
 ## Screenshots
 
 ### Expectativa
